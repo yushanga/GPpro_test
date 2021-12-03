@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,400">
+  <displayList>
+    <image id="n0_5rb4" name="n0" src="5rb43z" fileName="New3/组 2@3x.png" xy="157,68" pivot="0.5,0.5" alpha="0"/>
+    <image id="n1_5rb4" name="n1" src="5rb440" fileName="New3/组 2@3x(1).png" xy="451,68" pivot="0.5,0.5" alpha="0"/>
+    <text id="n3_5rb4" name="Tips" xy="4,294" size="794,100" alpha="0" font="PingFang SC" fontSize="35" color="#d63427" align="center" vAlign="middle" autoSize="none" bold="true" text="扫描录制即可参加活动哦！&#xA;"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n0_5rb4" tween="true" startValue="1,1" endValue="0.8,0.8" duration="48" repeat="-1" yoyo="true"/>
+    <item time="48" type="Scale" target="n0_5rb4" tween="true" startValue="0.8,0.8" repeat="-1" yoyo="true"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n1_5rb4" tween="true" startValue="1,1" endValue="0.8,0.8" duration="48" repeat="-1" yoyo="true"/>
+    <item time="48" type="Scale" target="n1_5rb4" tween="true" startValue="0.8,0.8" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

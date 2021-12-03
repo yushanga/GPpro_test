@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="506,116">
+  <displayList>
+    <image id="n0_fk6g" name="n0" src="cqd4b" fileName="全部图片/圆角矩形2.png" xy="0,0"/>
+    <text id="n1_fk6g" name="input" xy="46,-2" size="366,120" input="true" prompt="输入密钥观看个人订制" maxLength="6" keyboardType="1" font="PingFang SC" fontSize="33" color="#333333" align="center" vAlign="middle" autoSize="none" singleLine="true" text=""/>
+  </displayList>
+</component>

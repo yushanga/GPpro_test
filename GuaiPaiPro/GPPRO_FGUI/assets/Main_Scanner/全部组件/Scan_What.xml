@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="81,81" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_z6oy" name="n0" src="z6oy3v" fileName="New3/组 19@3x.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n1_z6oy" name="icon" xy="0,0" size="81,81" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n2_z6oy" name="what_text" xy="-160,99" size="401,41" font="PingFang SC" fontSize="25" color="#ffffff" align="center" vAlign="middle" leading="5" letterSpacing="1" autoSize="none" bold="true" text="可以扫什么？"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

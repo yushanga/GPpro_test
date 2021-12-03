@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <loader id="n42_mqga" name="n42" xy="0,0" size="1080,2360" url="ui://o2wpb535gyeh4c" fill="scaleFree"/>
+    <image id="n43_mqga" name="n43" src="mqga45" fileName="New3/1920_1080/图层9@2x.png" xy="-8,302"/>
+    <text id="n20_ztmn" name="Tips" xy="0,163" size="1080,128" alpha="0.7" font="PingFang SC" fontSize="41" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="需要识别到实物喔！"/>
+    <image id="n34_iwpk" name="n34" src="iwpk3q" fileName="New3/1920_1080/1080_1080（2）.png" xy="0,313" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n35_iwpk" name="n35" src="iwpk3p" fileName="New3/1920_1080/1080_1080（1）.png" xy="0,312" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n36_z6oy" name="Scan_What" src="z6oy3w" fileName="全部组件/Scan_What.xml" xy="340,1536">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n40_5rb4" name="RMB_" src="5rb441" fileName="全部组件/RMB.xml" xy="150,659"/>
+    <component id="n44_mqga" name="Rebel_btn" src="mqga48" fileName="全部图片/rebel/Rebel_btn.xml" xy="668,1536"/>
+    <component id="n45_gyeh" name="Starbucks_btn" src="gyeh4b" fileName="全部图片/rebel/StarBucks_btn.xml" xy="668,1536"/>
+    <component id="n46_qo1w" name="ScanMore" src="qo1w4f" fileName="全部图片/rebel/ScanMore.xml" xy="455,1488"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n34_iwpk" tween="true" startValue="0" endValue="-360" duration="198" ease="Linear" repeat="-1"/>
+    <item time="198" type="Rotation" target="n34_iwpk" tween="true" startValue="-360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n35_iwpk" tween="true" startValue="0" endValue="360" duration="270" ease="Linear" repeat="-1"/>
+    <item time="270" type="Rotation" target="n35_iwpk" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t4" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t5" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t6" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t7" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

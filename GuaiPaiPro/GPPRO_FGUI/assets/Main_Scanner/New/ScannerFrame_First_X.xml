@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1125,2436">
+  <displayList>
+    <image id="n28_iwpk" name="n28" src="iwpk3u" fileName="New3/1125_2436/1125_2436.png" xy="0,0"/>
+    <text id="n19_ztmn" name="Tips" xy="0,241" size="1125,128" alpha="0.7" font="PingFang SC" fontSize="41" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="需要识别到实物喔！"/>
+    <image id="n30_iwpk" name="n30" src="iwpk3t" fileName="New3/1125_2436/1125_1125（2）.png" xy="0,539" pivot="0.5,0.5"/>
+    <image id="n29_iwpk" name="n29" src="iwpk3s" fileName="New3/1125_2436/1125_1125（1）.png" xy="0,536" pivot="0.5,0.5"/>
+    <component id="n31_z6oy" name="Scan_What" src="z6oy3w" fileName="全部组件/Scan_What.xml" xy="313,1846"/>
+    <component id="n35_5rb4" name="RMB_" src="5rb441" fileName="全部组件/RMB.xml" xy="173,910"/>
+    <component id="n36_mqga" name="Rebel_btn" src="mqga48" fileName="全部图片/rebel/Rebel_btn.xml" xy="744,1846"/>
+    <component id="n37_gyeh" name="Starbucks_btn" src="gyeh4b" fileName="全部图片/rebel/StarBucks_btn.xml" xy="744,1846"/>
+    <component id="n38_qo1w" name="ScanMore" src="qo1w4f" fileName="全部图片/rebel/ScanMore.xml" xy="476,1820"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n30_iwpk" tween="true" startValue="0" endValue="-360" duration="192" ease="Linear" repeat="-1"/>
+    <item time="192" type="Rotation" target="n30_iwpk" tween="true" startValue="-360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n29_iwpk" tween="true" startValue="0" endValue="360" duration="270" ease="Linear" repeat="-1"/>
+    <item time="270" type="Rotation" target="n29_iwpk" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t2" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

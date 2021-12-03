@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,2316">
+  <displayList>
+    <list id="n21_d44c" name="ModelList" xy="0,1663" size="1080,256" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="338" colGap="20" defaultItem="ui://o2wpb535h78l22" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n23_ptl6" name="Scan" src="ptl625" fileName="全部组件/Scan.xml" xy="768,54" size="115,115"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t4" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t5" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

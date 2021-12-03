@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <loader id="n32_gyeh" name="n32" xy="0,0" size="1080,2564" url="ui://o2wpb535mqga44" fill="scaleFree"/>
+    <image id="n33_gyeh" name="n33" src="mqga45" fileName="New3/1920_1080/图层9@2x.png" xy="-12,300"/>
+    <text id="n20_ztmn" name="Tips" xy="0,168" size="1080,128" alpha="0.7" font="PingFang SC" fontSize="41" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="需要识别到实物喔！"/>
+    <component id="n8_fk6g" name="Query" src="cqd4i" fileName="全部控件/Go.xml" xy="437,1606"/>
+    <component id="n10_fk6g" name="menu" src="fk6gr" fileName="全部组件/Menu.xml" xy="297,1398" visible="false"/>
+    <component id="n9_fk6g" name="input_text" src="fk6gs" fileName="全部组件/InputText.xml" xy="296,1398"/>
+    <component id="n11_fk6g" name="Drop_Down" src="fk6gj" fileName="全部控件/Drop_Down.xml" xy="710,1425"/>
+    <component id="n22_fua2" name="Back" src="ptl62b" fileName="全部组件/Back.xml" xy="126,60"/>
+    <image id="n30_iwpk" name="n30" src="iwpk3q" fileName="New3/1920_1080/1080_1080（2）.png" xy="0,310" pivot="0.5,0.5"/>
+    <image id="n31_iwpk" name="n31" src="iwpk3p" fileName="New3/1920_1080/1080_1080（1）.png" xy="0,310" pivot="0.5,0.5"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n30_iwpk" tween="true" startValue="0" endValue="-360" duration="192" ease="Linear" repeat="-1"/>
+    <item time="192" type="Rotation" target="n30_iwpk" tween="true" startValue="-360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n31_iwpk" tween="true" startValue="0" endValue="360" duration="270" ease="Linear" repeat="-1"/>
+    <item time="270" type="Rotation" target="n31_iwpk" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t4" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="t5" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

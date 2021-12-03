@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1125,2436">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n24_gfjh" name="ScannerFrame_First" src="gfjh2o" fileName="New/ScannerFrame_First_X.xml" xy="0,0"/>
+    <component id="n20_j82p" name="ScannerFrame" src="j82p12" fileName="全部组件/ScannerFrame_X.xml" xy="0,0">
+      <gearLook controller="c1" pages="0" values="1,0,0,1" default="0,0,0,0" tween="true"/>
+    </component>
+    <text id="n22_ztmn" name="InteractiveTips" xy="30,567" size="1080,170" alpha="0" font="PingFang SC" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="Wuwuwu，点一下火车..."/>
+    <image id="n23_w74x" name="n23" src="w74x1y" fileName="全部图片/图层4.png" xy="398,1446" alpha="0"/>
+    <component id="n25_gfjh" name="ScannerFrame_Two" src="gfjh2p" fileName="New/ScannerFrame_Two_X.xml" xy="0,0"/>
+  </displayList>
+  <transition name="Round" autoPlay="true" autoPlayRepeat="-1"/>
+  <transition name="Hit_Train">
+    <item time="0" type="Alpha" target="n22_ztmn" tween="true" startValue="0" endValue="1" duration="36"/>
+    <item time="36" type="Alpha" target="n22_ztmn" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="60" type="Alpha" target="n22_ztmn" tween="true" startValue="0"/>
+  </transition>
+  <transition name="Singapore">
+    <item time="0" type="Alpha" target="n23_w74x" tween="true" startValue="0" endValue="1" duration="48"/>
+    <item time="48" type="Alpha" target="n23_w74x" tween="true" startValue="1" endValue="0" duration="36"/>
+    <item time="84" type="Alpha" target="n23_w74x" tween="true" startValue="0"/>
+  </transition>
+</component>

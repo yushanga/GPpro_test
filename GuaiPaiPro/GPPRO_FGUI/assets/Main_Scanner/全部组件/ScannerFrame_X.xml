@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1125,2436">
+  <displayList>
+    <image id="n38_iwpk" name="n38" src="iwpk3u" fileName="New3/1125_2436/1125_2436.png" xy="0,0"/>
+    <text id="n27_ztmn" name="Tips" xy="0,244" size="1125,128" alpha="0.7" font="PingFang SC" fontSize="41" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="需要识别到实物喔！"/>
+    <component id="n8_fk6g" name="Query" src="cqd4i" fileName="全部控件/Go.xml" xy="459,1892"/>
+    <component id="n10_fk6g" name="menu" src="fk6gr" fileName="全部组件/Menu.xml" xy="319,1684" visible="false"/>
+    <component id="n9_fk6g" name="input_text" src="fk6gs" fileName="全部组件/InputText.xml" xy="318,1684"/>
+    <component id="n11_fk6g" name="Drop_Down" src="fk6gj" fileName="全部控件/Drop_Down.xml" xy="732,1712"/>
+    <component id="n30_gfjh" name="Back" src="ptl62b" fileName="全部组件/Back.xml" xy="105,147"/>
+    <image id="n40_iwpk" name="n40" src="iwpk3t" fileName="New3/1125_2436/1125_1125（2）.png" xy="0,539" pivot="0.5,0.5"/>
+    <image id="n39_iwpk" name="n39" src="iwpk3s" fileName="New3/1125_2436/1125_1125（1）.png" xy="0,537" pivot="0.5,0.5"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n40_iwpk" tween="true" startValue="0" endValue="-360" duration="192" ease="Linear" repeat="-1"/>
+    <item time="192" type="Rotation" target="n40_iwpk" tween="true" startValue="-360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n39_iwpk" tween="true" startValue="0" endValue="360" duration="270" ease="Linear" repeat="-1"/>
+    <item time="270" type="Rotation" target="n39_iwpk" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t2" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

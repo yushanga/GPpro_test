@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o2wpb535" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="cqd40" name="Main.xml" path="/全部组件/" exported="true"/>
+    <image id="cqd41" name="组 12 拷贝@3x.png" path="/全部图片/" exported="true"/>
+    <image id="cqd42" name="组 12@3x.png" path="/全部图片/" exported="true"/>
+    <component id="cqd43" name="FlashLight.xml" path="/全部控件/"/>
+    <image id="cqd44" name="组13.png" path="/全部图片/iPhone/"/>
+    <image id="cqd45" name="形状1拷贝.png" path="/全部图片/iPhone/"/>
+    <image id="cqd46" name="iphoneX组13.png" path="/全部图片/iPhoneX/"/>
+    <image id="cqd47" name="iphoneX形状1.png" path="/全部图片/iPhoneX/"/>
+    <image id="cqd49" name="需要识别到怪拍杯喔！.png" path="/全部图片/" scale="" scale9grid="95,10,190,20" qualityOption="source"/>
+    <image id="cqd4a" name="形状6拷贝.png" path="/全部图片/"/>
+    <image id="cqd4b" name="圆角矩形2.png" path="/全部图片/"/>
+    <image id="cqd4c" name="圆角矩形2拷贝3.png" path="/全部图片/"/>
+    <image id="cqd4d" name="组9.png" path="/全部图片/" scale="" qualityOption="source"/>
+    <component id="cqd4i" name="Go.xml" path="/全部控件/"/>
+    <component id="fk6gj" name="Drop_Down.xml" path="/全部控件/"/>
+    <component id="fk6gk" name="Secretkey.xml" path="/全部控件/"/>
+    <component id="fk6gr" name="Menu.xml" path="/全部组件/"/>
+    <component id="fk6gs" name="InputText.xml" path="/全部组件/"/>
+    <image id="fk6gt" name="圆角矩形2拷贝3(1).png" path="/全部图片/"/>
+    <component id="fk6gu" name="ScannerFrame.xml" path="/全部组件/"/>
+    <component id="j82p12" name="ScannerFrame_X.xml" path="/全部组件/"/>
+    <component id="j82p13" name="Main_Nex.xml" path="/全部组件/" exported="true"/>
+    <image id="j82p14" name="iphoneX.png" path="/全部图片/" scale="" atlas="1"/>
+    <image id="j82p15" name="nex.png" path="/全部图片/" scale="" atlas="1"/>
+    <component id="ihjp16" name="Main_X.xml" path="/全部组件/" exported="true"/>
+    <component id="ihjp17" name="ScannerFrame_Nex.xml" path="/全部组件/"/>
+    <image id="ihjp1b" name="iphoneX组13.png" path="/全部图片/" scale="" atlas="1"/>
+    <image id="p95l1e" name="iphoneX.png" path="/全部图片/20181012/" scale="" atlas="alone"/>
+    <image id="p95l1g" name="iphoneXR.png" path="/全部图片/20181012/" scale="" atlas="alone"/>
+    <image id="p95l1j" name="组14(2).png" path="/全部图片/20181012/" scale=""/>
+    <image id="x1gx1k" name="tips.PNG" path="/全部图片/"/>
+    <image id="gtq81m" name="1080-3.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81n" name="1080.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81o" name="XMAX.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81p" name="XMAX2.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81q" name="XMAX3.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81r" name="XR.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81s" name="XR2.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81t" name="XR3.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81u" name="X（XS）.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81v" name="X（XS）2.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81w" name="X（XS）3.png" path="/全部图片/扫描页切图/"/>
+    <image id="gtq81x" name="1080副本.png" path="/全部图片/扫描页切图/"/>
+    <image id="w74x1y" name="图层4.png" path="/全部图片/"/>
+    <image id="d44c1z" name="组 15@3x.png" path="/全部图片/"/>
+    <component id="d44c20" name="ScannerFrame_First.xml" path="/全部组件/"/>
+    <component id="d44c21" name="ScannerFrame_Two.xml" path="/全部组件/"/>
+    <component id="h78l22" name="ModelIcon.xml" path="/全部组件/"/>
+    <image id="ptl623" name="_MGL7046@2x.png" path="/全部图片/"/>
+    <image id="ptl624" name="组 15 拷贝@2x.png" path="/全部图片/"/>
+    <component id="ptl625" name="Scan.xml" path="/全部组件/"/>
+    <component id="ptl628" name="ScannerFrame_Nex(1).xml" path="/New/"/>
+    <component id="ptl629" name="ScannerFrame_Two(1).xml" path="/New/"/>
+    <image id="ptl62a" name="返回@3x.png" path="/全部图片/"/>
+    <component id="ptl62b" name="Back.xml" path="/全部组件/"/>
+    <image id="ptl62c" name="1080_2316.png" path="/New/" scale="" atlas="alone"/>
+    <image id="ptl62d" name="1125_2436.png" path="/New/" scale="" atlas="alone"/>
+    <image id="ptl62e" name="1920_1080.png" path="/New/" scale="" atlas="alone"/>
+    <image id="fua22f" name="1080.png" path="/全部图片/20181012/" scale="" atlas="alone"/>
+    <image id="fua22g" name="NEX.png" path="/全部图片/20181012/" scale="" atlas="alone"/>
+    <image id="h8b52h" name="loading_icon_.png" path="/New/"/>
+    <image id="h8b52i" name="ZheZao.png" path="/New/"/>
+    <component id="h8b52k" name="Model_Bar.xml" path="/New/"/>
+    <image id="zmh72l" name="椭圆 9@3x.png" path="/New/"/>
+    <image id="zmh72m" name="椭圆 9@2x.png" path="/New/"/>
+    <image id="ufov2n" name="下载 (1)@3x.png" path="/New/"/>
+    <component id="gfjh2o" name="ScannerFrame_First_X.xml" path="/New/"/>
+    <component id="gfjh2p" name="ScannerFrame_Two_X.xml" path="/New/"/>
+    <image id="iwpk3o" name="1080_2316.png" path="/New3/" scale="" atlas="alone"/>
+    <image id="iwpk3p" name="1080_1080（1）.png" path="/New3/1920_1080/"/>
+    <image id="iwpk3q" name="1080_1080（2）.png" path="/New3/1920_1080/"/>
+    <image id="iwpk3r" name="1080_1920.png" path="/New3/1920_1080/" scale="" atlas="alone"/>
+    <image id="iwpk3s" name="1125_1125（1）.png" path="/New3/1125_2436/"/>
+    <image id="iwpk3t" name="1125_1125（2）.png" path="/New3/1125_2436/"/>
+    <image id="iwpk3u" name="1125_2436.png" path="/New3/1125_2436/" scale="" atlas="alone"/>
+    <image id="z6oy3v" name="组 19@3x.png" path="/New3/"/>
+    <component id="z6oy3w" name="Scan_What.xml" path="/全部组件/"/>
+    <image id="5rb43x" name="活动@3x.png" path="/New3/1920_1080/"/>
+    <image id="5rb43z" name="组 2@3x.png" path="/New3/"/>
+    <image id="5rb440" name="组 2@3x(1).png" path="/New3/"/>
+    <component id="5rb441" name="RMB.xml" path="/全部组件/"/>
+    <image id="mqga43" name="1080_1920_1.png" path="/New3/1920_1080/"/>
+    <image id="mqga44" name="bg.png" path="/New3/1920_1080/"/>
+    <image id="mqga45" name="图层9@2x.png" path="/New3/1920_1080/"/>
+    <image id="mqga46" name="1080_1920.png" path="/New3/"/>
+    <image id="mqga47" name="组 19 拷贝@3x.png" path="/全部图片/rebel/"/>
+    <component id="mqga48" name="Rebel_btn.xml" path="/全部图片/rebel/"/>
+    <image id="mqga49" name="ICON-关闭-n@3x.png" path="/全部图片/rebel/"/>
+    <image id="gyeh4a" name="logo.png" path="/全部图片/rebel/"/>
+    <component id="gyeh4b" name="StarBucks_btn.xml" path="/全部图片/rebel/"/>
+    <image id="gyeh4c" name="bg2.png" path="/全部图片/rebel/"/>
+    <image id="gyeh4d" name="组 19 拷贝@3x(1).png" path="/全部图片/rebel/"/>
+    <image id="qo1w4e" name="组 19@3x.png" path="/全部图片/rebel/"/>
+    <component id="qo1w4f" name="ScanMore.xml" path="/全部图片/rebel/"/>
+  </resources>
+  <publish name="Main_Scanner" path="E:\GUAIPAI_PRO\GUAIPAI_PRO\Assets\Resources\FGUI"/>
+</packageDescription>

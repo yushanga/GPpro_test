@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,2316">
+  <displayList>
+    <image id="n44_iwpk" name="bg" src="iwpk3o" fileName="New3/1080_2316.png" xy="0,0" size="1080,2316">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n19_ztmn" name="Tips" xy="0,185" size="1080,128" alpha="0.7" font="PingFang SC" fontSize="41" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="需要识别到实物喔！"/>
+    <image id="n46_iwpk" name="n46" src="iwpk3q" fileName="New3/1920_1080/1080_1080（2）.png" xy="0,504" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n45_iwpk" name="n45" src="iwpk3p" fileName="New3/1920_1080/1080_1080（1）.png" xy="0,504" pivot="0.5,0.5" size="1080,1080" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n47_z6oy" name="Scan_What" src="z6oy3w" fileName="全部组件/Scan_What.xml" xy="498,1786"/>
+    <component id="n51_5rb4" name="RMB_" src="5rb441" fileName="全部组件/RMB.xml" xy="151,857"/>
+  </displayList>
+  <relation target="" sidePair="width-width,height-height"/>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n45_iwpk" tween="true" startValue="0" endValue="360" duration="270" ease="Linear" repeat="-1"/>
+    <item time="270" type="Rotation" target="n45_iwpk" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n46_iwpk" tween="true" startValue="0" endValue="-360" duration="192" ease="Linear" repeat="-1"/>
+    <item time="192" type="Rotation" target="n46_iwpk" tween="true" startValue="-360" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="t2" autoPlay="true" autoPlayRepeat="-1"/>
+</component>

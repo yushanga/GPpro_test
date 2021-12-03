@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="508,255">
+  <displayList>
+    <image id="n0_fk6g" name="n0" src="cqd4c" fileName="全部图片/圆角矩形2拷贝3.png" xy="0,0" size="508,255" group="n2_fk6g"/>
+    <list id="n1_fk6g" name="list" xy="16,0" size="404,232" group="n2_fk6g" overflow="scroll" margin="22,0,0,0" defaultItem="ui://o2wpb535fk6gk"/>
+    <group id="n2_fk6g" name="meun" xy="0,0" size="508,255" advanced="true"/>
+  </displayList>
+</component>
